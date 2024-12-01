@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.79 318.64">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 41.04px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #2aa3dc;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-4" d="m178.38,121.43l-16.52,58.14h-16.62l-16.62-58.18h16.62l7.37,40.51h1.65l7.69-40.53,16.45.05h-.02Z"/>
+    <path class="cls-4" d="m203.28,121.37h-16.55l-16.55,58.16h16.5l7.74-40.5h1.65l7.37,40.53h16.5l-16.64-58.19h-.02Z"/>
+    <path class="cls-4" d="m164.16,113.07h39.26v4.15h-41.57v-1.86c0-1.27,1.02-2.29,2.29-2.29h.02Z"/>
+  </g>
+  <text class="cls-3" transform="translate(219.94 179.57)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan class="cls-2" x="20.56" y="0">A</tspan><tspan x="45.43" y="0">socical</tspan></text>
+</svg>
